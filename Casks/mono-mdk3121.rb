@@ -1,4 +1,4 @@
-cask :v1 => 'mono-mdk-3-12-1' do
+cask :v1 => 'mono-mdk3121' do
   version '3.12.1'
   sha256 '98abc2854e9d0dfafd16c2b9dd27b82eda9e28440f112eded882d51cb56b89d8'
 

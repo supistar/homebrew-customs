@@ -1,6 +1,6 @@
 require 'formula'
 
-class Tmux < Formula
+class Tmux2 < Formula
   homepage 'http://tmux.sourceforge.net'
   url 'https://downloads.sourceforge.net/project/tmux/tmux/tmux-2.0/tmux-2.0.tar.gz'
   sha1 '977871e7433fe054928d86477382bd5f6794dc3d'
