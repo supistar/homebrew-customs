@@ -7,7 +7,7 @@ cask :v1 => 'hhkb-professional-driver' do
   license :gratis
 
   pkg "for X/HHKB Pro Installer.app/Contents/Resources/10_6/HHKeyboardPro.pkg"
-  uninstall pkgutil: 'jp.co.pfu.pkg.HHKBPro.driver',
+  uninstall pkgutil: 'jp.co.pfu.pkg.HHKBPro.lib_driver',
             kext: ['jp.co.pfu.driver.HHPBPro']
 
 end
