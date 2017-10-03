@@ -3,8 +3,8 @@ require 'formula'
 class Ccmenu < Formula
   desc "CCMenu displays the build status of projects on a continuous integration server as an item in the Mac's menu bar"
   homepage 'http://ccmenu.org/'
-  url 'https://github.com/erikdoe/ccmenu/archive/v1.10.tar.gz'
-  sha1 '6e6c0ef2605ab672ffe69a07bc0d203de1dbcd09'
+  url 'https://github.com/erikdoe/ccmenu/archive/v13.0.tar.gz'
+  sha256 '2452b42c0a42e1ca84c71d0929da52425d8af01ecadfa71b2c17bbdb82602b0b'
 
   bottle do
     cellar :any
