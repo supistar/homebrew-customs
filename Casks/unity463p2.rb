@@ -4,7 +4,6 @@ cask :v1 => 'unity463p2' do
 
   url "http://beta.unity3d.com/download/0553181569/unity_update-4.6.3p2.dmg"
   homepage 'http://unity3d.com/unity/'
-  license :commercial
 
   pkg 'Unity Update.pkg'
 

@@ -4,7 +4,6 @@ cask :v1 => 'hhkb-professional-driver' do
 
   url "https://www.pfu.fujitsu.com/hhkeyboard/downloads/HHKBProMac201609.dmg"
   homepage 'https://www.pfu.fujitsu.com/hhkeyboard/macdownload.html'
-  license :gratis
 
   pkg "for X/HHKB Pro Installer.app/Contents/Resources/10_6/HHKeyboardPro.pkg"
   uninstall pkgutil: 'jp.co.pfu.pkg.HHKBPro.lib_driver',
