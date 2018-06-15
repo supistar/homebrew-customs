@@ -4,7 +4,6 @@ cask :v1 => 'mono-mdk3121' do
 
   url "http://download.mono-project.com/archive/#{version}/macos-10-x86/MonoFramework-MDK-#{version}.macos10.xamarin.x86.pkg"
   homepage 'http://mono-project.com/'
-  license :oss
 
   pkg "MonoFramework-MDK-#{version}.macos10.xamarin.x86.pkg"
   uninstall :pkgutil => 'com.xamarin.mono-MDK.pkg'
