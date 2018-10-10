@@ -1,4 +1,4 @@
-cask :v1 => 'hhkb-professional-driver' do
+cask 'hhkb-professional-driver' do
   version '3.0.1'
   sha256 '91d549cc88b690a04d30c5939029e7b46a1a22e16b17d1821665b9c2f0da46ea'
 
